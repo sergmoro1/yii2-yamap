@@ -56,8 +56,8 @@ If you have more then one map, then place maps divs for each of them, and place 
 					'footer' =&gt; '8-800-000-00-00',
 				],
 			],
-			'params' =&gt; ['visible' =&gt; true,'zoom' =&gt; 13]
-		),
+			'params' =&gt; ['visible' =&gt; true, 'zoom' =&gt; 13]
+		],
 		'moscow_office' =&gt; [
 			'points' =&gt; [
 				[
