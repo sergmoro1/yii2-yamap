@@ -35,8 +35,6 @@ namespace sergmoro1\yamap\widgets;
 use Yii;
 use yii\base\Widget;
 use yii\web\View;
-use yii\helpers\Url;
-use yii\base\NotSupportedException;
 
 class Yamap extends Widget
 {
