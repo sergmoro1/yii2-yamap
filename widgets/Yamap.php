@@ -1,7 +1,7 @@
 <?php
 /**
 * @author sergmoro1@ya.ru
-* @ license: MIT
+* @license MIT
 *
 * Yandex map extension for Yii
 * Multiple points for area and multiple areas.

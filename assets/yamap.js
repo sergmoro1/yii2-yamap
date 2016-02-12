@@ -3,8 +3,7 @@
  * Multiple points for area and multiple areas
  * 
  * @author sergmoro1@ya.ru
- * @site: lisette.su
- * @ license: GPL
+ * @license MIT
  * 
  * @var yaMapAreas = {
  * 	map_canvas_name1:
