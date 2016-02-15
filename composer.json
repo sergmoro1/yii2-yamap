@@ -1,7 +1,7 @@
 {
     "name": "sergmoro1/yii2-yamap",
     "version": "1.0.0",
-    "description": "Yandex map widget. One or more maps on a page.",
+    "description": "Yandex map widget. One or more maps on a page. Lightweight & Simple in use.",
     "keywords": [
         "yii2",
         "map", 
